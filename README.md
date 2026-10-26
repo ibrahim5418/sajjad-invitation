@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Engagement Invitation (React + Vite)
 
 A scrolling digital engagement invitation: tap-to-open curtain film, a chandelier-lit stage that
@@ -29,3 +30,6 @@ npm run build    # static site in dist/
 The original Google Flow downloads are kept in `assets-source/` (not served).
 The film is shown zoomed 13% from the top so the generator's corner mark stays off-screen;
 the hero background uses the same framing, so the hand-off is seamless.
+=======
+# sajjad-invitation
+>>>>>>> 739f698bf1f29a0ed5cc7bf11c58bf0286aaf06d
